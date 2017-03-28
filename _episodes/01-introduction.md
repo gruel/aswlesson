@@ -22,3 +22,26 @@ keypoints:
 > ~~~
 > {: .source}
 {: .callout}
+
+
+> ## Challenge Title
+>
+> This is the body of the challenge.
+>
+> ~~~
+> it may include some code
+> ~~~
+> {: .source}
+>
+> > ## Solution
+> >
+> > This is the body of the solution.
+> >
+> > ~~~
+> > it may also include some code
+> > ~~~
+> > {: .output}
+> {: .solution}
+{: .challenge}
+
+
